@@ -1,9 +1,10 @@
+import Header from '../components/header';
 const index = () => {
   return (
     <div>
-      Enter
+      <Header />
     </div>
   );
-}
+};
 
 export default index;
