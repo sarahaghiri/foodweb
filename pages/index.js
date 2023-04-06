@@ -1,8 +1,10 @@
 import Header from '../components/header';
+import Main from '../components/main';
 const index = () => {
   return (
-    <div>
+    <div >
       <Header />
+      <Main />
     </div>
   );
 };

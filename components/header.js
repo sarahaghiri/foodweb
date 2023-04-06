@@ -2,9 +2,9 @@
 const header = () => {
   return (
     <header>
-      <div className="fixed w-full">
-        <div className="py-2.5">
-          <div className="flex justify-between max-w-screen-2xl mx-auto px-5">
+      <div className="w-full">
+        <div className="py-3">
+          <div className="flex justify-between  px-10">
             <div>
               <h1 className="font-extrabold text-3xl">aliments</h1>
             </div>
